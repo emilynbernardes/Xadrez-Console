@@ -1,5 +1,6 @@
 ﻿using System;
 using tabuleiro;
+using xadrez;
 
 namespace Emilyn___Projeto_de_xadrez
 {
@@ -9,12 +10,25 @@ namespace Emilyn___Projeto_de_xadrez
         {
             Console.WriteLine("Hello World!");
 
-            Tabuleiro tab = new Tabuleiro(8, 8);
+            try
+            {
+                Tabuleiro tab = new Tabuleiro(8, 8);
 
-            Tela.imprimirTabuleiro(tab);
+                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
+                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
+                tab.colocarPeca(new Rei(tab, Cor.Branca), new Posicao(5, 3));
 
-            Console.ReadLine();
+                Tela.imprimirTabuleiro(tab);
 
+               
+            }
+
+            catch (TabuleiroException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+             Console.ReadLine();
         }
     }
 }
