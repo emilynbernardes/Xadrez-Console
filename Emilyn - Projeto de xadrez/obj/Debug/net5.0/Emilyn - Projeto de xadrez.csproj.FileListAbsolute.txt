@@ -1,0 +1,16 @@
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\bin\Debug\net5.0\Emilyn - Projeto de xadrez.exe
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\bin\Debug\net5.0\Emilyn - Projeto de xadrez.deps.json
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\bin\Debug\net5.0\Emilyn - Projeto de xadrez.runtimeconfig.json
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\bin\Debug\net5.0\Emilyn - Projeto de xadrez.runtimeconfig.dev.json
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\bin\Debug\net5.0\Emilyn - Projeto de xadrez.dll
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\bin\Debug\net5.0\ref\Emilyn - Projeto de xadrez.dll
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\bin\Debug\net5.0\Emilyn - Projeto de xadrez.pdb
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\obj\Debug\net5.0\Emilyn - Projeto de xadrez.csprojAssemblyReference.cache
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\obj\Debug\net5.0\Emilyn - Projeto de xadrez.GeneratedMSBuildEditorConfig.editorconfig
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\obj\Debug\net5.0\Emilyn - Projeto de xadrez.AssemblyInfoInputs.cache
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\obj\Debug\net5.0\Emilyn - Projeto de xadrez.AssemblyInfo.cs
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\obj\Debug\net5.0\Emilyn - Projeto de xadrez.csproj.CoreCompileInputs.cache
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\obj\Debug\net5.0\Emilyn - Projeto de xadrez.dll
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\obj\Debug\net5.0\ref\Emilyn - Projeto de xadrez.dll
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\obj\Debug\net5.0\Emilyn - Projeto de xadrez.pdb
+F:\Emilyn - Primeiro projeto\Emilyn - Projeto de xadrez\Emilyn - Projeto de xadrez\obj\Debug\net5.0\Emilyn - Projeto de xadrez.genruntimeconfig.cache

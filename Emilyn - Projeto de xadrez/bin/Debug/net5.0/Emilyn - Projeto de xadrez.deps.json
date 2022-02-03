@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Emilyn - Projeto de xadrez/1.0.0": {
+        "runtime": {
+          "Emilyn - Projeto de xadrez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Emilyn - Projeto de xadrez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
