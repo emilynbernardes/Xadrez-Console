@@ -10,31 +10,25 @@ namespace Emilyn___Projeto_de_xadrez
         {
             Console.WriteLine("Hello World!");
 
-            PosicaoXadrez pos = new PosicaoXadrez('a', 1);
+            try
+            {
+                Tabuleiro tab = new Tabuleiro(8, 8);
 
-            Console.WriteLine(pos);
+                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
+                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
+                tab.colocarPeca(new Rei(tab, Cor.Branca), new Posicao(5, 3));
 
-            Console.WriteLine(pos.toPosicao());
+                Tela.imprimirTabuleiro(tab);
 
-            //try
-            //{
-            //    Tabuleiro tab = new Tabuleiro(8, 8);
 
-            //    tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
-            //    tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
-            //    tab.colocarPeca(new Rei(tab, Cor.Branca), new Posicao(5, 3));
+            }
 
-            //    Tela.imprimirTabuleiro(tab);
+            catch (TabuleiroException e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
-               
-            //}
-
-            //catch (TabuleiroException e)
-            //{
-            //    Console.WriteLine(e.Message);
-            //}
-
-             Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
