@@ -52,7 +52,7 @@ namespace Emilyn___Projeto_de_xadrez
         {
             string s = Console.ReadLine();
             char coluna = s[0];
-            sint linha = int.Parse(s[1] + "");
+            int linha = int.Parse(s[1] + "");
             return new PosicaoXadrez(coluna, linha);
         }
 
