@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using tabuleiro;
 using xadrez;
 
-namespace Emilyn___Projeto_de_xadrez
+namespace xadrez
 {
     class Tela
     {
@@ -17,7 +17,7 @@ namespace Emilyn___Projeto_de_xadrez
             if (!partida.terminada)
             {
                 Console.WriteLine("Aguardando jogada: " + partida.jogadorAtual);
-                if (partida.Xeque)
+                if (partida.xeque)
                 {
                     Console.WriteLine("Xeque!");
                 }
