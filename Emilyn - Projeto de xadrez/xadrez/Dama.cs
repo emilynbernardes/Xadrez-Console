@@ -71,7 +71,8 @@ namespace xadrez
                 {
                     break;
                 }
-                pos.definirValores(pos.linha = 1, pos.coluna);
+                //pos.definirValores(pos.linha = 1, pos.coluna);
+                pos.definirValores(pos.linha + 1, pos.coluna);
             }
 
             //noroeste
